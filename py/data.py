@@ -8,7 +8,7 @@ def is_url_valid(url):
         headers = {'Accept': 'text/html'}
         resp = requests.head(url,headers=headers)
     except:
-        print("Warning: "+str(resp.status_code)+" invalid URL " + repr(url))
+        print("Warning: invalid URL " + repr(url))
         return False
 
     if (resp.status_code != 200 and resp.status_code != 303):

@@ -16,16 +16,9 @@ mylookup = TemplateLookup(directories=['.'])
 # --------------------------------------- publications.html
 print("01 - Preparing publications.html")
 pb = data.Publications('py/publications.csv')
-pb.replace("GPL_IMAGE_PATH_DANIELE","https://cims.nyu.edu/gcl/papers")
-pb.replace("GPL_PAPERS_PATH_DANIELE","https://cims.nyu.edu/gcl/papers")
-pb.replace("GPL_DATA_PATH_DANIELE","https://cims.nyu.edu/gcl/papers")
-pb.replace("GPL_CODE_PATH_DANIELE","https://cims.nyu.edu/gcl/papers")
-pb.replace("GPL_VIDEOS_PATH_DANIELE","https://cims.nyu.edu/gcl/papers")
-pb.replace("GPL_IMAGE_PATH_DENIS","https://cims.nyu.edu/gcl/papers")
-pb.replace("GPL_PAPERS_PATH_DENIS","https://cims.nyu.edu/gcl/papers")
-pb.replace("GPL_VIDEOS_PATH_DENIS","https://cims.nyu.edu/gcl/papers")
-# if not args.skip:
-#     pb.check_urls()
+pb.replace("PATH_XIUZHEN","https://xiuzhenchen.github.io/papers")
+if not args.skip:
+    pb.check_urls()
 
 aut = data.Authors('py/authors.csv')
 # if not args.skip:
