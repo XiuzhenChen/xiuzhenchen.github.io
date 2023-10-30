@@ -46,8 +46,7 @@
 										% endif
 										% endfor
 										<br>
-										<i>${p[publications.cid("Journal")] + publications.format_note(p)}</i>
-										, ${p[publications.cid("Year")]}
+										<i>${p[publications.cid("Journal")] + publications.format_note(p)}</i>, ${p[publications.cid("Year")]}
 										<br>
 										<% labels, urls = publications.unpack_pairs(p[publications.cid("Links")]) %>
 										% for l, u in zip(labels,urls):
