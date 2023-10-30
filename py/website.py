@@ -44,11 +44,11 @@ with open('index.html', 'w') as f:
 #     f.write(body)
 
 # --------------------------------------- research.html
-# print("04 - Preparing research.html")
-# mako_template = Template(filename='py/research.mako',lookup=mylookup)
-# body = mako_template.render()
-# with open('research.html', 'w') as f:
-#     f.write(body)
+print("04 - Preparing research.html")
+mako_template = Template(filename='py/research.mako',lookup=mylookup)
+body = mako_template.render()
+with open('research.html', 'w') as f:
+    f.write(body)
 
 # --------------------------------------- software.html
 # print("05 - Preparing software.html")
