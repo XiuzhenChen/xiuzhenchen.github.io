@@ -37,11 +37,11 @@ with open('index.html', 'w') as f:
     f.write(body)
 
 # --------------------------------------- people.html
-# print("03 - Preparing people.html")
-# mako_template = Template(filename='py/people.mako',lookup=mylookup)
-# body = mako_template.render()
-# with open('people.html', 'w') as f:
-#     f.write(body)
+print("03 - Preparing people.html")
+mako_template = Template(filename='py/people.mako',lookup=mylookup)
+body = mako_template.render()
+with open('people.html', 'w') as f:
+    f.write(body)
 
 # --------------------------------------- research.html
 print("04 - Preparing research.html")
@@ -84,3 +84,10 @@ with open('research.html', 'w') as f:
 # body = mako_template.render(publications=pb, authors=aut)
 # with open('denis.html', 'w') as f:
 #     f.write(body)
+
+# --------------------------------------- denis.html
+print("10 - Preparing join.html")
+mako_template = Template(filename='py/join.mako',lookup=mylookup)
+body = mako_template.render(publications=pb, authors=aut)
+with open('join.html', 'w') as f:
+    f.write(body)
