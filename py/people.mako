@@ -43,21 +43,38 @@
 											</span>
 													Suzanne is an assistant professor at the Department of Biology at New York University. Before joining NYU, Suzanne was a research associate at the Memorial Sloan Kettering Cancer Center, working in the Christine Mayr lab. She earned her Ph.D. in Cellular and Molecular Biology from ETH Zurich in April 2018, advised by Prof. Dr. Yves Barral. Gapped by one year of industrial research experience at the Novartis Institute for Biomedical Research, she earned her M.S. in Biochemistry and Molecular Biology at the National Institute of Biological Sciences in 2010. Besides work, Suzanne continues her experiments in her kitchen and enjoys cycling around NYC.
 											</p>
-
-											## </div>
 										</div>
 									</div>
 									
-									## <h3>Postdoctoral Researchers</h3>
-									## <div class="box alt">
-									## 	<div class="row 50% uniform">
-									## 			<div class="4u"><span class="image fit">
-									## 					<a href="http://www.inf.usi.ch/phd/schneider/">
-									## 					<img src="images/people/teseo.jpg" alt="Teseo Schneider"/>Teseo Schneider
-									## 					</a>
-									## 			</span></div>
-									## 			</div>
-									## </div>
+									## <h3>PhD Students</h3>
+									<div class="box alt">
+										<div class="row 50% uniform">
+											## <div class="4u">
+											<p>
+											<span class="image left">
+													## <a href="https://xiuzhenchen.github.io/cv.pdf">
+														<img src="images/Alyssa.jpg" alt="Alyssa Ramsay" />
+														Alyssa Ramsay (PhD student) 
+													## </a>
+											</span>
+											
+											</p>
+										</div>
+									</div>
+									<div class="box alt">
+										<div class="row 50% uniform">
+											## <div class="4u">
+											<p>
+											<span class="image left">
+													## <a href="https://xiuzhenchen.github.io/cv.pdf">
+														<img src="images/Nandu.jpg" alt="Nandagopal Ajaykumar" />
+														Nandagopal Ajaykumar (Research Associate) 
+													## </a>
+											</span>
+											
+											</p>
+										</div>
+									</div>
 									## <h3>PhD Students</h3>
 									## <div class="box alt">
 									## 	<div class="row 50% uniform">
