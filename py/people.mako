@@ -61,6 +61,20 @@
 											</p>
 										</div>
 									</div>
+																		<div class="box alt">
+										<div class="row 50% uniform">
+											## <div class="4u">
+											<p>
+											<span class="image left">
+													## <a href="https://xiuzhenchen.github.io/cv.pdf">
+														<img src="images/Paloma.jpg" alt="Paloma Maldonado" />
+														Paloma Maldonado (Rotating PhD student) 
+													## </a>
+											</span>
+											Paloma is a Ph.D student at NYU Biology. Before coming to New York, they were a Research Assistant at The Salk Institute, La Jolla. Paloma earned their Bachelor’s degree at UC San Diego and CEU San Pablo, Madrid. When Paloma is not in the lab they are probably kicking a ball around in a random patch of grass in the city.
+											</p>
+										</div>
+									</div>
 									<div class="box alt">
 										<div class="row 50% uniform">
 											## <div class="4u">
