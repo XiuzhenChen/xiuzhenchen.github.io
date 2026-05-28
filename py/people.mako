@@ -57,7 +57,7 @@
 														Alyssa Ramsay (PhD student) 
 													## </a>
 											</span>
-											
+											Alyssa is a PhD student at NYU Biology. Before joining NYU, she was a clinical research coordinator for cardiac surgery at Massachusetts General Hospital for 3 years before returning to the bench as a research assistant in the Birnbaum Lab at NYU. She earned her Bachelors degree in Biology with a minor in Chemistry from Skidmore College in 2021. When not in lab, Alyssa is probably swimming, sewing, or traveling.
 											</p>
 										</div>
 									</div>
