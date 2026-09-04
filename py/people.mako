@@ -75,7 +75,21 @@
 											</p>
 										</div>
 									</div>
-
+## <h3>PhD Students</h3>
+									<div class="box alt">
+										<div class="row 50% uniform">
+											## <div class="4u">
+											<p>
+											<span class="image left">
+													## <a href="https://xiuzhenchen.github.io/cv.pdf">
+														<img src="images/Ivy.jpg" alt="Ivy Ratchford" />
+														Ivy Ratchford (Junior Research Associate) 
+													## </a>
+											</span>
+										Ivy is a Junior Research Associate at NYU Biology with the Chen, Gibbs, and Smith labs. Before moving to New York, she was a research assistant at the University of Chicago, where she earned bachelors in Biology, Chemistry, and Biochemistry. She earned her Masters from the Experimental Humanities (XE) department at NYU in 2026 before returning to the lab. When not in lab, look for Ivy in the mountains, on her bike, and in the library. 
+											</p>
+										</div>
+									</div>
 ## <h3>PhD Students</h3>
 									<div class="box alt">
 										<div class="row 50% uniform">
@@ -99,7 +113,7 @@
 											<p>
 											<span class="image left">
 													## <a href="https://xiuzhenchen.github.io/cv.pdf">
-														<img src="images/Lucas.jpg" alt="Lucas Lyu" />
+														<img src="images/Lucas.jpeg" alt="Lucas Lyu" />
 														Lucas Lyu (Undergraduate Student) 
 													## </a>
 											</span>

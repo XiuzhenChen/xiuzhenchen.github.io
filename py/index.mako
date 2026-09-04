@@ -41,13 +41,14 @@ We use integrative biochemical and cellular approaches to understand how RNA-pro
 										<h2>News</h2>
 									</header>
 									
-									<div class="row">
-											<ul>
-												% for n in news.data:
-												<li><span class="date">${n[news.cid("Date")]}</span>${n[news.cid("Text")]}</li>
-												% endfor
-											</ul>												  
-									</div>
+									<ul class="news">
+										% for n in news.data:
+										<li>
+											<span class="date">${n[news.cid("Date")].strip()}</span>
+											<span class="news-text">${n[news.cid("Text")].strip()}</span>
+										</li>
+										% endfor
+									</ul>
 									
 						</div>
 					</div>
